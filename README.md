@@ -1,4 +1,4 @@
-# repaso-js
+# Repaso de JS
 Checklist de repaso de JS
 
 ## Variables
